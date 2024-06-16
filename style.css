@@ -11,7 +11,8 @@ body {
   display: flex;
   flex-direction: column;
   gap: 14px;
-  font-size: 1.2em;
+  /* font-size: 1.2em; */
+  font-size: 0.8em;
 }
 
 header {
@@ -22,9 +23,9 @@ header {
 }
 
 header section img {
-    max-width: 40px;
-    border-radius: 49%;
-    border: 2px solid #334155;
+  max-width: 40px;
+  border-radius: 49%;
+  border: 2px solid #334155;
 }
 
 nav,
